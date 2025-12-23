@@ -123,7 +123,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     id: "p3",
     title: "CUHK Monthly Publication",
     description: "Oversee end-to-end production of a monthly publication, including content creation, design, printing, and digital distribution.",
-    imageUrl: "https://picsum.photos/600/400?random=3",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Emblem_of_CU.png/500px-Emblem_of_CU.png",
     tags: ["Design", "Content"],
     link: "https://www.canva.com/design/DAG8UzTmH2U/BA1GRN_pUqQ0s78PTpbbcg/edit?utm_content=DAG8UzTmH2U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
   },
