@@ -147,7 +147,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     id: "p6",
     title: "Web3 Educational Content (Medium)",
     description: "Authored a series of educational guides on Medium tailored for Web3 beginners. Simplified complex wallet operations and blockchain concepts to facilitate smoother user onboarding.",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdtOyKzoZkJu6xU-Bo9jsWtzFQcxGkTO2DA&s",
+    imageUrl: "https://i.ibb.co/YBxG5P7P/image-18.jpg",
     tags: ["Web3", "Content","Education"],
     link: "#"
   },
