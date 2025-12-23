@@ -59,7 +59,7 @@ export const CV_JSON: CVData = {
     },
     {
       id: "work-4",
-      role: "Clerk",
+      role: "Clerk, Marketing Team",
       company: "The Education University of Hong Kong",
       period: "Feb 2021 - Feb 2022",
       type: "general",
@@ -129,18 +129,18 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
   },
   {
     id: "p4",
-    title: "Fitness Brand Scaling (@fitwbosco__fitness)",
+    title: "Fitness IP (@fitwbosco__fitness)",
     description: "Grew a fitness Instagram brand from scratch to 30K+ followers in two years. Developed high-engagement content strategies and consistent visual storytelling.",
     imageUrl: "https://cdn-icons-png.flaticon.com/512/2843/2843664.png",
-    tags: ["Marketing", "Content"],
+    tags: ["Marketing", "Content", "Growth"],
     link: "https://www.instagram.com/fitwbosco__fitness/"
   },
   {
     id: "p5",
-    title: "Crypto Security Product Design",
+    title: "Crypto Product Design",
     description: "Designed a tangible Seed Phrase Storage Plate for cryptocurrency security. Focused on industrial design principles to ensure durability, legibility, and user-friendly archiving.",
     imageUrl: "https://shoplineimg.com/60ec091b845d2e00165a381f/63048f3ffa8ea00025d86b21/800x.webp?source_format=jpg",
-    tags: ["Web3", "Design"],
+    tags: ["Web3", "Product Design"],
     link: "https://store.trend.hk/products/huntcoins-seed-phrase-storage-plate"
   },
   {
@@ -148,13 +148,13 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     title: "Web3 Educational Content (Medium)",
     description: "Authored a series of educational guides on Medium tailored for Web3 beginners. Simplified complex wallet operations and blockchain concepts to facilitate smoother user onboarding.",
     imageUrl: "https://picsum.photos/600/400?random=6",
-    tags: ["Web3", "Content"],
+    tags: ["Web3", "Content","Education"],
     link: "#"
   },
   {
     id: "p7",
     title: "Health E-Commerce & Web Design",
-    description: "Designed and promoted a health-focused website integrating knowledge sharing with e-commerce. Optimized UI/UX to convert educational readers into product customers.",
+    description: "Build a health-focused website integrating knowledge sharing with e-commerce. Optimized UI/UX to convert educational readers into product customers.",
     imageUrl: "https://www.proteinmonhk.com/cdn/shop/files/1_copy_4ffbd755-39c5-4737-ab08-e10b94737c92.png?v=1688582640",
     tags: ["Design", "Marketing"],
     link: "https://www.proteinmonhk.com/blogs/all"
