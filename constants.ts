@@ -121,7 +121,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
   },
   {
     id: "p3",
-    title: "CUHK Monthly PUblication",
+    title: "CUHK Monthly Publication",
     description: "Oversee end-to-end production of a monthly publication, including content creation, design, printing, and digital distribution.",
     imageUrl: "https://picsum.photos/600/400?random=3",
     tags: ["Design", "Content"],
@@ -131,7 +131,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     id: "p4",
     title: "Fitness IP (@fitwbosco__fitness)",
     description: "Grew a fitness Instagram brand from scratch to 30K+ followers in two years. Developed high-engagement content strategies and consistent visual storytelling.",
-    imageUrl: "https://www.pinterest.com/pin/1108730002028831374/",
+    imageUrl: "https://ibb.co/LdynjxVZ",
     tags: ["Marketing", "Content", "Growth"],
     link: "https://www.instagram.com/fitwbosco__fitness/"
   },
