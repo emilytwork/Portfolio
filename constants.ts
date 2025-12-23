@@ -147,7 +147,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     id: "p6",
     title: "Web3 Educational Content (Medium)",
     description: "Authored a series of educational guides on Medium tailored for Web3 beginners. Simplified complex wallet operations and blockchain concepts to facilitate smoother user onboarding.",
-    imageUrl: "https://picsum.photos/600/400?random=6",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjdtOyKzoZkJu6xU-Bo9jsWtzFQcxGkTO2DA&s",
     tags: ["Web3", "Content","Education"],
     link: "#"
   },
@@ -156,7 +156,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     title: "Health E-Commerce & Web Design",
     description: "E-commerce & Web Development: Designed and launched the official webstore using Shopify, optimizing UI/UX for a seamless customer journey and mobile-first shopping experience.",
     imageUrl: "https://www.proteinmonhk.com/cdn/shop/files/1_copy_4ffbd755-39c5-4737-ab08-e10b94737c92.png?v=1688582640",
-    tags: ["Design", "Marketing"],
+    tags: ["Design", "Marketing, "Business Development"],
     link: "https://www.proteinmonhk.com/blogs/all"
   }
 ];
