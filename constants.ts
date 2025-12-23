@@ -6,15 +6,15 @@ export const CV_JSON: CVData = {
     title: "Web3 Content Specialist",
     email: "emilytworkfi@gmail.com",
     phone: "69359450",
-    summary: "Energetic Web3 content specialist with 4+ years hands-on experience building Hong Kong crypto communities and driving 500+ NFT/GameFi partnerships. Highly adaptable, with exceptional attention to detail, strong problem-solving and communication skills, and a passion for advancing blockchain infrastructure and driving product growth."
+    summary: "Energetic content specialist with 4+ years hands-on experience building Hong Kong crypto communities and driving 500+ NFT/GameFi partnerships. Highly adaptable, with exceptional attention to detail, strong problem-solving and communication skills, and a passion for advancing blockchain infrastructure and driving product growth."
   },
   experience: [
     {
       id: "web3-1",
       role: "Marketing team | Collab Manager",
       company: "Huntcoins, Crypto Community In Hong Kong | Azuki CN Garden",
-      period: "2021 - 2025",
-      type: "web3",
+      period: "2021 - 2024",
+      type: "web3","NFT"
       achievements: [
         "Operations & Growth: Scaled HK Web3 community to 12K+ members across Twitter, Discord, and Telegram by implementing structured content calendars and engagement strategies since 2021.",
         "Partnership Management: Coordinated 500+ partnership campaigns with key Web3 players (HashKey, Ultiverse), managing listing announcements and community AMAs with 100% accuracy.",
@@ -29,7 +29,7 @@ export const CV_JSON: CVData = {
       period: "March 2023 - October 2025",
       type: "general",
       achievements: [
-        "Launched e-commerce health brand; managed Shopify/HKTVMall content.",
+        "Create, develop, manage and implement the content for e-Shop platforms (HKTVMALL and Shoptify.",
         "Oversee and maintained product listings, pricing, campaign execution. Supplier coordination (Thailand/Taiwan/HK).",
         "Design graphical assets and write compelling copy for products, promotions, and campaigns."
       ]
@@ -122,10 +122,10 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
   {
     id: "p3",
     title: "tsety",
-    description: "12314221414oordinated content with writers, and enforced a zero-error standard for final print production.",
+    description: "Managed the end-to-end production of a monthly publication",
     imageUrl: "https://picsum.photos/600/400?random=3",
     tags: ["Design", "Content"],
-    link: "#"
+    link: "https://www.canva.com/design/DAG8UzTmH2U/BA1GRN_pUqQ0s78PTpbbcg/edit?utm_content=DAG8UzTmH2U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
   },
   {
     id: "p4",
