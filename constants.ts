@@ -14,7 +14,7 @@ export const CV_JSON: CVData = {
       role: "Marketing team | Collab Manager",
       company: "Huntcoins, Crypto Community In Hong Kong | Azuki CN Garden",
       period: "2021 - 2024",
-      type: "web3","NFT"
+      type: "web3",
       achievements: [
         "Operations & Growth: Scaled HK Web3 community to 12K+ members across Twitter, Discord, and Telegram by implementing structured content calendars and engagement strategies since 2021.",
         "Partnership Management: Coordinated 500+ partnership campaigns with key Web3 players (HashKey, Ultiverse), managing listing announcements and community AMAs with 100% accuracy.",
