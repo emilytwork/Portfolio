@@ -130,7 +130,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
   {
     id: "p4",
     title: "Fitness IP (@fitwbosco__fitness)",
-    description: "Grew a fitness Instagram brand from scratch to 30K+ followers in two years. Developed high-engagement content strategies and consistent visual storytelling.",
+    description: "Grew a fitness Instagram brand from scratch to 30K+ followers in two years. Developed high-engagement content strategies and curated high-impact collaborative campaigns for global fitness brands such as Myprotein and Rankingdak",
     imageUrl: "https://ibb.co/LdynjxVZ",
     tags: ["Marketing", "Content", "Growth"],
     link: "https://www.instagram.com/fitwbosco__fitness/"
