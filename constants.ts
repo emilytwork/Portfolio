@@ -24,7 +24,7 @@ export const CV_JSON: CVData = {
     },
     {
       id: "work-1",
-      role: "Self Employed",
+      role: "Self-Employed",
       company: "Proteinmon",
       period: "March 2023 - October 2025",
       type: "general",
