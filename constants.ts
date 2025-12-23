@@ -105,7 +105,7 @@ export const CV_JSON: CVData = {
 export const PORTFOLIO_PROJECTS: ProjectItem[] = [
   {
     id: "p1",
-    title: "Web3 Community Architecture",
+    title: "Web3 Community ",
     description: "Executed comprehensive marketing strategies across Twitter, Telegram, and Discord. Managed partnerships with over 200 NFT projects, hosted community AMAs, and orchestrated viral giveaway campaigns to drive user acquisition.",
     imageUrl: "https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/38436400942264038574408664307576818040782004865936606820103211572618472718669/opengraph-image?ts=29421452",
     tags: ["Web3", "Community", "Marketing"],
@@ -114,15 +114,15 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
   {
     id: "p2",
     title: "BackToTheEth NFT Project",
-    description: "Led the creative direction for NFT asset design and spearheaded the Twitter promotional roadmap. Successfully aligned visual identity with market trends to maximize project visibility.",
+    description: "Led the creative direction for NFT asset design and spearheaded the Twitter promotional roadmap. ",
     imageUrl: "https://pbs.twimg.com/profile_banners/1668259621868273667/1686750740/1500x500",
     tags: ["Web3", "Design", "Marketing"],
     link: "https://x.com/BackToTheEth"
   },
   {
     id: "p3",
-    title: "tsety",
-    description: "Managed the end-to-end production of a monthly publication",
+    title: "CUHK Monthly PUblication",
+    description: "Oversee end-to-end production of a monthly publication, including content creation, design, printing, and digital distribution.",
     imageUrl: "https://picsum.photos/600/400?random=3",
     tags: ["Design", "Content"],
     link: "https://www.canva.com/design/DAG8UzTmH2U/BA1GRN_pUqQ0s78PTpbbcg/edit?utm_content=DAG8UzTmH2U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
@@ -131,7 +131,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     id: "p4",
     title: "Fitness IP (@fitwbosco__fitness)",
     description: "Grew a fitness Instagram brand from scratch to 30K+ followers in two years. Developed high-engagement content strategies and consistent visual storytelling.",
-    imageUrl: "https://cdn-icons-png.flaticon.com/512/2843/2843664.png",
+    imageUrl: "https://www.pinterest.com/pin/1108730002028831374/",
     tags: ["Marketing", "Content", "Growth"],
     link: "https://www.instagram.com/fitwbosco__fitness/"
   },
