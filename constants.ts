@@ -156,7 +156,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     title: "Health E-Commerce & Web Design",
     description: "E-commerce & Web Development: Designed and launched the official webstore using Shopify, optimizing UI/UX for a seamless customer journey and mobile-first shopping experience.",
     imageUrl: "https://www.proteinmonhk.com/cdn/shop/files/1_copy_4ffbd755-39c5-4737-ab08-e10b94737c92.png?v=1688582640",
-    tags: ["Design", "Marketing, "Business Development"],
+    tags: ["Design", "Marketing", "Business Development"],
     link: "https://www.proteinmonhk.com/blogs/all"
   }
 ];
