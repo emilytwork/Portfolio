@@ -26,7 +26,7 @@ export const CV_JSON: CVData = {
       id: "work-1",
       role: "Self-Employed",
       company: "Proteinmon",
-      period: "March 2023 - November 2026",
+      period: "March 2023 - November 2025",
       type: "general",
       achievements: [
         "Create, develop, manage and implement the content for e-Shop platforms (HKTVMALL and Shoptify.",
