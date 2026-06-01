@@ -13,7 +13,7 @@ export const CV_JSON: CVData = {
       id: "web3-1",
       role: "Marketing team | Collab Manager",
       company: "Huntcoins, Crypto Community In Hong Kong | Azuki CN Garden",
-      period: "2021 - 2024",
+      period: "2021 - 2026",
       type: "web3",
       achievements: [
         "Operations & Growth: Scaled HK Web3 community to 12K+ members across Twitter, Discord, and Telegram by implementing structured content calendars and engagement strategies since 2021.",
@@ -26,7 +26,7 @@ export const CV_JSON: CVData = {
       id: "work-1",
       role: "Self-Employed",
       company: "Proteinmon",
-      period: "March 2023 - October 2025",
+      period: "March 2023 - November 2026",
       type: "general",
       achievements: [
         "Create, develop, manage and implement the content for e-Shop platforms (HKTVMALL and Shoptify.",
