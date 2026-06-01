@@ -24,7 +24,7 @@ export const CV_JSON: CVData = {
     },
     {
       id: "work-1",
-      role: "Self-Employed",
+      role: "Shop Owner",
       company: "Proteinmon",
       period: "March 2023 - November 2025",
       type: "general",
@@ -50,7 +50,7 @@ export const CV_JSON: CVData = {
       id: "work-3",
       role: "Administrative Assistant",
       company: "Hong Kong Polytechnic University",
-      period: "April 2021 - Sep 2022",
+      period: "Apr 2021 - Dec 2021",
       type: "general",
       achievements: [
         "Supported administration of admission, registration, examination and student record.",
