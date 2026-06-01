@@ -50,7 +50,7 @@ export const CV_JSON: CVData = {
       id: "work-3",
       role: "Administrative Assistant",
       company: "Hong Kong Polytechnic University",
-      period: "Apr 2021 - Dec 2021",
+      period: "Apr 2020 - Dec 2020",
       type: "general",
       achievements: [
         "Supported administration of admission, registration, examination and student record.",
